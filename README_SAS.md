@@ -7,7 +7,7 @@ This data set was analyzed to determine the relationships between total pre-exis
 
 It was determined that as the number of pre-existing conditions increased, the percentage of deaths increases. Respiratory factors such as pneumonia, a patient requiring intubation, and having COPD also lead to increased deaths. However, patients with asthma did not see the same effect. Overall, the presence of any pre-exsiting conditions, but COPD and chronic renal disease in particular led to a higher percentage of deaths. Finally, pregnancy was not a risk factor for increased mortality in the dataset. 
 
-Explaination of data - The following information was provided with the dataset:
+Explanation of data - The following information was provided with the dataset:
 This dataset contains an enormous number of anonymized patient-related information including pre-conditions. The raw dataset consists of 21 unique features and 1,048,576 unique patients. In the Boolean features, 1 means "yes" and 2 means "no". values as 97, 98, and 99 are missing data.
 
 sex: 1 for female and 2 for male.
